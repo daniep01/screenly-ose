@@ -28,6 +28,7 @@ DEFAULTS = {
         'shuffle_playlist': False,
         'resolution': '1920x1080',
         'default_duration': '10',
+        'default_period': '7',
         'default_streaming_duration': '300',
         'debug_logging': False,
         'verify_ssl': True,
